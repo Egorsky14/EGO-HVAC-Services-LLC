@@ -1,0 +1,25 @@
+[build]
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "/holidayheat"
+  to = "/holidayheat.html"
+  status = 200
+
+[[redirects]]
+  from = "/buyback"
+  to = "/buyback.html"
+  status = 200
+
+[[redirects]]
+  from = "http://egohvac.com/*"
+  to = "https://www.egohvac.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.egohvac.com/*"
+  to = "https://www.egohvac.com/:splat"
+  status = 301
+  force = true
