@@ -1,0 +1,13 @@
+Mapped/converted images:
+  + services-repair.jpg
+  + reviews-1.jpg
+  + reviews-2.jpg
+  + og.jpg
+
+Placeholders kept (no generated source found yet):
+  - hero-home.jpg
+  - services-install.jpg
+  - buyback-hero.jpg
+  - holidayheat-hero.jpg
+  - contact-map.jpg
+  - truck-wrap.jpg
